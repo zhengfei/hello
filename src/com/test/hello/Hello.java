@@ -25,7 +25,6 @@ package com.test.hello;
  * @since JDK 1.6
  */
 public class Hello {
-    fdsfds1.2.0fdsafdsvds
-    fdasfds
+    fdsfds1.2.0
 
 }
