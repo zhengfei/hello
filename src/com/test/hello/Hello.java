@@ -27,4 +27,5 @@ package com.test.hello;
 public class Hello {
     fdsfds1.2.0
 
+    test1();
 }
