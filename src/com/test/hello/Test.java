@@ -20,6 +20,7 @@ public class Test {
     public static final String PROJECT_DIR = "/Users/zaffy/work/app.shihuimiao/src/";
     public static void main(String[] args) {
         1
+                2
 
 //        LintImage lintImage = new LintImage(
 //                "E:\\Working3\\Air\\app\\Module\\air_purifier_131",
