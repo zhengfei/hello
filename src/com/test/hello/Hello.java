@@ -25,5 +25,7 @@ package com.test.hello;
  * @since JDK 1.6
  */
 public class Hello {
+    test 1
+         2
     test2 1
 }
