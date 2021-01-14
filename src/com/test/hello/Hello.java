@@ -28,5 +28,5 @@ public class Hello {
     test 1
          2
     test2 1
-    ///// after merge 
+    ///// after merge
 }
